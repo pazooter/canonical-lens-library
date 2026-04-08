@@ -1,2 +1,1 @@
-# canonical-lens-library
-The Canonical Lens Library — a portable 18-lens framework for claim integrity analysis. Domain-agnostic. Licensed CC BY-NC-SA 4.0.
+The Canonical Lens Library is an 18-lens framework for testing the integrity of claims, records, and structured arguments. Each lens identifies a distinct failure mode — omission, false sequence, causal inversion, frame control, and others — applicable across any domain where claim integrity matters: investigative analysis, financial disclosure, document audit, intelligence assessment, planning, and AI output evaluation. Licensed CC BY-NC-SA 4.0. Free for non-commercial use with attribution. Commercial licensing available from the author.
